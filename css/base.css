@@ -398,6 +398,10 @@ p, a, span {
   margin-top: 5px;
   line-height: 1.7; }
 
+.navbar-donate-button a{
+  color: #9cd59c !important;
+}
+
 .navbar-default {
   background-image: -webkit-linear-gradient(top, #ffffff 0%, #f8f8f8 100%);
   background-image: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%);
